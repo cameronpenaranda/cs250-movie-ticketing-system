@@ -4,8 +4,8 @@
 This repository contains a Software Requirement Specifications(SRS) form for a Movie Ticketing System that we are creating in our CS 250 course.
 
 ## Most Recent Completion: 
-- Test Plan
-- Test Case samples
+- Implemented Software Architecture Diagram
+- Implemented Data Management Strategy
 
 ## Team Members
 - Cameron Penaranda
@@ -13,4 +13,4 @@ This repository contains a Software Requirement Specifications(SRS) form for a M
 - Ayaan Bhatkar 
 
 ## Development
-Version 0.7
+Version 0.9
